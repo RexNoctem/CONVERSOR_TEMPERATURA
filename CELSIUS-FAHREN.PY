@@ -5,7 +5,7 @@ print("\nPROGRAMA QUE CONVERTE TEMPERATURA EM GRAUS CELSIUS PARA GRAUS FAHRNHEIT
 
 
 #Dados
-grau_celsius = eval(input("Por favor informe uma temperatura em graus celsius:"))
+grau_celsius = eval(input("Por favor informe uma temperatura em graus celsius:"))    #Eval torna literal, procure utilizar o float.
 grau_fahrenheit = 0
 
 
